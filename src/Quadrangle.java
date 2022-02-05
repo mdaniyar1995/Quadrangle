@@ -2,8 +2,6 @@ public abstract class Quadrangle {
     int a, b;
     String color;
 
-
-
     public Quadrangle(int a, int b, String color) {
         this.a = a;
         this.b = b;
