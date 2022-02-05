@@ -7,6 +7,8 @@ public abstract class Quadrangle {
         this.b = b;
         this.color = color;
     }
+
+
     abstract double getLargeDiagonal();
     abstract double getHeight();
     abstract String getColor();
